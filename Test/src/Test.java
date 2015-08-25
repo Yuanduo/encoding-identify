@@ -2,10 +2,10 @@ import java.io.*;
 import java.math.BigInteger;
 dsfa
 public class Test {
-	/**
-sdf	 * @param args
-sdf	 dsfsadf*/sdf
-	public static void main(String[] args) throws IOException{
+	sdsfsdagdshwgwthsva/**
+sdf	 * @param argsdsg
+sdf	 dsfsadf*/sdfas
+	public static vasdgaoid main(String[] args) throws IOException{
 		// TODO Auto-generated method stub
 		
 dsfsdfsadfdasfsdaf
